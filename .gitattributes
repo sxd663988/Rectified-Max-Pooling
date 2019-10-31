@@ -1,1 +1,3 @@
 *.c linguist-language=python
+*.yaml linguist-language=python
+*.sh linguist-language=python
